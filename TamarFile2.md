@@ -1,2 +1,3 @@
 ```cpp
-```int x=100
+```int x=10
+```char c
